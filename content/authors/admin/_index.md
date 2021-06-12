@@ -25,17 +25,17 @@ interests:
 - Scientific Writing
 
 # Education to show in About widget
- #education:
- # courses:
-  #- course: PhD in Molecular and Cell Biology
-   # institution: University of Manchester
-    #year: 2017-2022
-  #- course: MSc in Molecular and Cell Biology
-   # institution: University of Porto
-    #year: 2014-2016
-  #- course: BSc in Biology
-   # institution: University of Porto
-    #year: 2011-2014
+education:
+  courses:
+  - course: PhD in Molecular and Cell Biology
+    institution: University of Manchester
+    year: 2017-2022
+  - course: MSc in Molecular and Cell Biology
+    institution: University of Porto
+    year: 2014-2016
+  - course: BSc in Biology
+    institution: University of Porto
+    year: 2011-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,7 +75,11 @@ email: "catiafcgoncalves@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate at the University of Manchester studying the role of circadian clock in articular cartilage. 
+
+
+
+His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
