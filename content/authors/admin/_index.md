@@ -75,6 +75,6 @@ email: "catiafcgoncalves@gmail.com"
 highlight_name: true
 ---
 
-I am a PhD candidate at the University of Manchester studying circadian rhythms in articular cartilage. In particular, I am interested in the interactions between the circadian clock and the extracellular matrix and how these impact cartilage in health and disease. My research is funded by a Wellcome Trust PhD studentship. 
+I am a PhD candidate at the University of Manchester studying circadian rhythms in articular cartilage. In particular, I am interested in the interactions between the circadian clock and the extracellular matrix and how these impact cartilage in health and disease. My research is funded by a Wellcome Trust PhD studentship.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
