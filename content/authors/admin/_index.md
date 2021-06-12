@@ -25,17 +25,17 @@ interests:
 - Scientific Writing
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Molecular and Cell Biology
-    institution: University of Manchester
-    year: 2017-2022
-  - course: MSc in Molecular and Cell Biology
-    institution: University of Porto
-    year: 2014-2016
-  - course: BSc in Biology
-    institution: University of Porto
-    year: 2011-2014
+ #education:
+ # courses:
+  #- course: PhD in Molecular and Cell Biology
+   # institution: University of Manchester
+    #year: 2017-2022
+  #- course: MSc in Molecular and Cell Biology
+   # institution: University of Porto
+    #year: 2014-2016
+  #- course: BSc in Biology
+   # institution: University of Porto
+    #year: 2011-2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
