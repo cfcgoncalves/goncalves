@@ -5,10 +5,10 @@ widget: experience
 
 # This file represents a page section.
 headless: false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 10
 
 title: Experience
 subtitle:
@@ -23,28 +23,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant
+    company: University of Manchester
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Manchester, United Kingdom
+    date_start: '2018-12-01'
+    date_end: '2019-03-31'
     description: |2-
-        Responsibilities include:
+        Involved in teaching of undergraduate practical courses and marking of exams. Taught in the following modules:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Introduction to Experimental Biology
+        * Human Sciences Experimental Design Module
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Pre-doctoral Researcher
+    company: i3S - Institute for Research and Innovation in Health Sciences
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Porto, Portugal
+    date_start: '2017-01-01'
+    date_end: '2017-08-31'
+    description: Studied multiprotein transport complexes and their role in the maintenance of bacterial physiology.
 
 design:
   columns: '2'
