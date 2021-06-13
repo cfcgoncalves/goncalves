@@ -23,11 +23,8 @@ twitter: ''
 email: catiafcgoncalves@gmail.com
 phone: +44 161 275 5264
 address:
-  building: AV Hill Building
-  street: Oxford Road
-  postcode: M13 9PT
-  city: Manchester
-  country: United Kingdom
+  street: AV Hill Building, Oxford Road, M13 9PT, Manchester, United Kingdom
+  
 contact_links:
   - icon: twitter
     icon_pack: fab
