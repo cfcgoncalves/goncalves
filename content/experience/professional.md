@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Professional
+title: Professional experience
 subtitle:
 
 # Date format for experience
