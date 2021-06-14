@@ -34,14 +34,14 @@ experience:
         
         * Introduction to Experimental Biology
         * Human Sciences Experimental Design Module
-        
+
   - title: Pre-doctoral Researcher
     company: i3S - Institute for Research and Innovation in Health Sciences
     company_url: ''
     location: Porto, Portugal
     date_start: '2017-01-01'
     date_end: '2017-08-31'
-    description: Studied multiprotein transport complexes and their role in the maintenance of bacterial physiology.
+    description: X
 
  - title: Graduate Research Trainee
     company: i3S - Institute for Research and Innovation in Health Sciences
