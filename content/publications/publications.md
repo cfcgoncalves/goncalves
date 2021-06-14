@@ -1,11 +1,12 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
+
+widget: pages
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 10
@@ -15,13 +16,13 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: "publication"
   # Choose how much pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: asc
+  order: "desc"
   # Filter on criteria
   filters:
     tag: ''
@@ -29,6 +30,10 @@ content:
     publication_type: ''
     author: ''
     exclude_featured: true
+  content.archive:
+    enable: true
+    text: "See all publications"
+    link: "publication/"
 design:
   # Choose a view for the listings:
   #   1 = List
