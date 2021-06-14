@@ -29,7 +29,7 @@ experience:
     location: Manchester, United Kingdom
     date_start: '2017-09-01'
     date_end: '2022-03-31'
-    description:        
+    description: 
   - title: MSc in Molecular and Cell Biology
     company: University of Porto
     company_url: ''
@@ -38,6 +38,7 @@ experience:
     date_end: '2016-07-31'
     description: |2-
         ECTS classification: A
+        Dissertation title: 
   - title: BSc in Biology
     company: University of Porto
     company_url: ''
