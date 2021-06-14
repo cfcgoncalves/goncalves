@@ -45,5 +45,5 @@ experience:
     date_end: '2014-07-31'
     description:
 design:
-  columns: '1'
+  columns: '2'
 ---

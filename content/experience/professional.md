@@ -44,5 +44,5 @@ experience:
     description: Studied multiprotein transport complexes and their role in the maintenance of bacterial physiology.
 
 design:
-  columns: '1'
+  columns: '2'
 ---
