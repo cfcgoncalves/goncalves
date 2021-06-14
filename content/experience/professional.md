@@ -30,7 +30,7 @@ experience:
     date_start: '2018-12-01'
     date_end: '2019-03-31'
     description: |2-
-     Involved in teaching of undergraduate practical courses and marking of exams. Taught in the following modules:
+        Involved in teaching of undergraduate practical courses and marking of exams. Taught in the following modules:
         
         * Introduction to Experimental Biology
         * Human Sciences Experimental Design Module
