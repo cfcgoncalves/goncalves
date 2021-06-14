@@ -32,8 +32,8 @@ experience:
     description: |2-
      Involved in teaching of undergraduate practical courses and marking of exams. Taught in the following modules:
         
-      * Introduction to Experimental Biology
-      * Human Sciences Experimental Design Module
+        * Introduction to Experimental Biology
+        * Human Sciences Experimental Design Module
         
   - title: Pre-doctoral Researcher
     company: i3S - Institute for Research and Innovation in Health Sciences
