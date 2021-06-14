@@ -37,7 +37,7 @@ experience:
     date_start: '2014-09-01'
     date_end: '2016-07-31'
     description:
-- title: BSc in Biology
+  - title: BSc in Biology
     company: University of Porto
     company_url: ''
     location: Porto, Portugal
@@ -45,5 +45,5 @@ experience:
     date_end: '2014-07-31'
     description:
 design:
-  columns: '2'
+  columns: '1'
 ---
