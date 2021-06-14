@@ -37,8 +37,8 @@ experience:
     date_start: '2014-09-01'
     date_end: '2016-07-31'
     description: |2-
-        Final grade: 19 out of 20
-        ECTS classification: A 
+        * Final grade: 19 out of 20
+        * ECTS classification: A 
   - title: BSc in Biology
     company: University of Porto
     company_url: ''
@@ -46,8 +46,8 @@ experience:
     date_start: '2011-09-01'
     date_end: '2014-07-31'
     description: |2-
-        Final grade: 17 out of 20
-        ECTS classification: A
+        * Final grade: 17 out of 20
+        * ECTS classification: A
 
 design:
   columns: '1'
