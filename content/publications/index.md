@@ -5,7 +5,6 @@ title: Publications
 type: widget_page
 
 headless: false
-cms_exclude: true
 
 # View.
 #   1 = List
