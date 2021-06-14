@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Product Export in Cyanobacteria
+title: 'Product Export in Cyanobacteria'
 subtitle: ''
 summary: ''
 authors:
@@ -17,7 +17,7 @@ tags:
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-14T08:10:02+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -37,7 +37,7 @@ projects: []
 publishDate: '2021-06-14T07:10:02.089229Z'
 publication_types:
 - '6'
-abstract: The interest in using cyanobacteria for biotechnology is rising steeply
+abstract: 'The interest in using cyanobacteria for biotechnology is rising steeply
   not only because of their ease of cultivation and genetic manipulation but also
   because of their high degree of metabolic plasticity. Typical approaches include
   fine-tuning of native metabolic pathways or the expression of heterologous enzymes
@@ -53,8 +53,8 @@ abstract: The interest in using cyanobacteria for biotechnology is rising steepl
   related bacteria, identifying cyanobacterial candidates for potentially improving
   product export. In addition, focus is also given to a largely overlooked secretion
   system, the release of membrane vesicles, which holds enormous potential in numerous
-  applications.
+  applications.'
 publication: '*Cyanobacteria Biotechnology*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527824908.ch12
-doi: 10.1002/9783527824908.ch12
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/9783527824908.ch12'
+doi: '10.1002/9783527824908.ch12'
 ---
