@@ -19,7 +19,7 @@ tags:
 categories: []
 date: '2021-01-01'
 lastmod: 2021-06-14T08:10:02+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -39,7 +39,7 @@ projects: []
 publishDate: '2021-06-14T07:10:01.736477Z'
 publication_types:
 - '2'
-abstract: Circadian clocks in the brain and peripheral tissues temporally coordinate
+abstract: 'Circadian clocks in the brain and peripheral tissues temporally coordinate
   local physiology to align with the 24 hours rhythmic environment through light/darkness,
   rest/activity and feeding/fasting cycles. Circadian disruptions (during ageing,
   shift work and jet-lag) have been proposed as a risk factor for degeneration and
@@ -60,8 +60,8 @@ abstract: Circadian clocks in the brain and peripheral tissues temporally coordi
   and discuss implications of utilising biological timing mechanisms to improve tissue
   health and mitigate degeneration. These findings may have broader implications in
   chronic rheumatic conditions, given the recent findings of musculoskeletal circadian
-  clocks.
+  clocks.'
 publication: '*Annals of the Rheumatic Diseases*'
-url_pdf: https://ard.bmj.com/content/early/2021/01/03/annrheumdis-2020-219515
-doi: 10.1136/annrheumdis-2020-219515
+url_pdf: 'https://ard.bmj.com/content/early/2021/01/03/annrheumdis-2020-219515'
+doi: '10.1136/annrheumdis-2020-219515'
 ---

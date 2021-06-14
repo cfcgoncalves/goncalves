@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2019-12-01'
 lastmod: 2021-06-14T08:10:01+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -32,17 +32,16 @@ projects: []
 publishDate: '2021-06-14T07:10:01.368452Z'
 publication_types:
 - '2'
-abstract: textlesssection class=\"abstract\"textgreatertextlessptextgreaterThe circadian
-  system in mammals is responsible for the temporal coordination of multiple physiological
-  and behavioural processes that are necessary for homeostasis. In the skeleton, it
+abstract:'The circadian system in mammals is responsible for the temporal coordination of multiple
+  physiological and behavioural processes that are necessary for homeostasis. In the skeleton, it
   has long been known that metabolic functions of chondrocytes, osteoblasts and osteoclasts
   exhibit intrinsic circadian rhythms. In addition, results from animal models reveal
   a close connection between the disruption of circadian rhythms and skeletal disorders
   such as rheumatoid arthritis, osteoarthritis and osteoporosis. In this review, we
   summarise the latest insights into the genetic and biochemical mechanisms linking
   cartilage and bone physiology to the circadian clock system. We also discuss how
-  this knowledge can be utilised to improve human health.textless/ptextgreatertextless/sectiontextgreater
+  this knowledge can be utilised to improve human health.'
 publication: '*Journal of Endocrinology*'
-url_pdf: https://joe.bioscientifica.com/view/journals/joe/243/3/JOE-19-0256.xml
-doi: 10.1530/JOE-19-0256
+url_pdf: 'https://joe.bioscientifica.com/view/journals/joe/243/3/JOE-19-0256.xml'
+doi: '10.1530/JOE-19-0256'
 ---

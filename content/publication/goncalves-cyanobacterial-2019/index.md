@@ -54,6 +54,6 @@ abstract: 'Cyanobacteria hold great promise as renewable and sustainable microbi
   applications, highlighting what has been done in closely related bacteria, and identifying
   cyanobacterial candidates for improving efficient product export.'
 publication: '*Cyanobacteria*'
-url_pdf: http://www.sciencedirect.com/science/article/pii/B9780128146675000180
-doi: 10.1016/B978-0-12-814667-5.00018-0
+url_pdf: 'http://www.sciencedirect.com/science/article/pii/B9780128146675000180'
+doi: '10.1016/B978-0-12-814667-5.00018-0'
 ---

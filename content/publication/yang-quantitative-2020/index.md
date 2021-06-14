@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Quantitative live imaging of Venus::BMAL1 in a mouse model reveals complex
-  dynamics of the master circadian clock regulator
+title: 'Quantitative live imaging of Venus::BMAL1 in a mouse model reveals complex
+  dynamics of the master circadian clock regulator'
 subtitle: ''
 summary: ''
 authors:
@@ -34,7 +34,7 @@ tags:
 categories: []
 date: '2020-04-01'
 lastmod: 2021-06-14T08:10:00+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -54,7 +54,7 @@ projects: []
 publishDate: '2021-06-14T07:09:58.639477Z'
 publication_types:
 - '2'
-abstract: Evolutionarily conserved circadian clocks generate 24-hour rhythms in physiology
+abstract: 'Evolutionarily conserved circadian clocks generate 24-hour rhythms in physiology
   and behaviour that adapt organisms to their daily and seasonal environments. In
   mammals, the suprachiasmatic nucleus (SCN) of the hypothalamus is the principal
   co-ordinator of the cell-autonomous clocks distributed across all major tissues.
@@ -76,8 +76,8 @@ abstract: Evolutionarily conserved circadian clocks generate 24-hour rhythms in 
   mouse model enabled us to visualise and quantify the daily behaviour of this core
   clock factor in central (SCN) and peripheral clocks, with single-cell resolution
   that revealed its circadian expression, anti-phasic to negative regulators, nuclear-cytoplasmic
-  mobility and molecular abundance.
+  mobility and molecular abundance.'
 publication: '*PLOS Genetics*'
-url_pdf: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008729
-doi: 10.1371/journal.pgen.1008729
+url_pdf: 'https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008729'
+doi: '10.1371/journal.pgen.1008729'
 ---

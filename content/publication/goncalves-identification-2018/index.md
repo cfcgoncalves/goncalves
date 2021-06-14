@@ -34,7 +34,7 @@ projects: []
 publishDate: '2021-06-14T07:10:00.654974Z'
 publication_types:
 - '2'
-abstract: Cyanobacteria were the first organisms ever to perform oxygenic photosynthesis
+abstract: 'Cyanobacteria were the first organisms ever to perform oxygenic photosynthesis
   and still significantly contribute to primary production on a global scale. To assure
   the proper functioning of their primary metabolism and cell homeostasis, cyanobacteria
   must rely on efficient transport systems to cross their multilayered cell envelope.
@@ -51,8 +51,8 @@ abstract: Cyanobacteria were the first organisms ever to perform oxygenic photos
   we suggest that the hyper-vesiculating phenotype of the TolC-deficient mutant is
   related to cell envelope stress management. Altogether, these findings highlight
   how both classical (TolC-mediated) and nonclassical (OMVs-mediated) secretion systems
-  are crucial for cyanobacterial cell homeostasis.
+  are crucial for cyanobacterial cell homeostasis.'
 publication: '*Environmental Microbiology*'
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14095
-doi: 10/gd6wj7
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14095'
+doi: '10/gd6wj7'
 ---
