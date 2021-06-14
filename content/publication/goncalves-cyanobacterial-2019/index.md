@@ -6,7 +6,7 @@ title: 'Cyanobacterial secretion systems: understanding fundamental mechanisms t
 subtitle: ''
 summary: ''
 authors:
-- Cátia F. Gonçalves
+- admin
 - Steeve Lima
 - Paula Tamagnini
 - Paulo Oliveira
