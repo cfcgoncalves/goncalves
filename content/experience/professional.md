@@ -53,9 +53,8 @@ experience:
     company_url: ''
     location: Porto, Portugal
     date_start: '2013-10-01'
-    date_end: '2017-06-31'
+    date_end: '2014-06-31'
     description: For details about the project please see. 
-    
 design:
   columns: '1'
 ---
