@@ -47,15 +47,14 @@ experience:
     location: Porto, Portugal
     date_start: '2014-09-01'
     date_end: '2016-10-31'
-    description: 
+    description: X
  - title: Undergraduate Research Trainee
     company: IBMC - Institute for Molecular and Cell Biology
     company_url: ''
     location: Porto, Portugal
     date_start: '2013-10-01'
     date_end: '2014-07-31'
-    description: 
-
+    description: X
 design:
   columns: '1'
 ---
