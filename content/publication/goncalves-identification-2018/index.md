@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Identification of inner membrane translocase components of TolC-mediated secretion
-  in the cyanobacterium Synechocystis sp. PCC 6803
+title: "Identification of inner membrane translocase components of TolC-mediated secretion
+  in the cyanobacterium Synechocystis sp. PCC 6803"
 subtitle: ''
 summary: ''
 authors:
@@ -33,7 +33,7 @@ image:
 projects: []
 publishDate: '2021-06-14T07:10:00.654974Z'
 publication_types:
-- '2'
+- 2
 abstract: Cyanobacteria were the first organisms ever to perform oxygenic photosynthesis
   and still significantly contribute to primary production on a global scale. To assure
   the proper functioning of their primary metabolism and cell homeostasis, cyanobacteria
