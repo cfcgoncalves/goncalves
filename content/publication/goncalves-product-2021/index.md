@@ -16,7 +16,7 @@ tags:
 - '"Transporter-mediated secretion"'
 categories: []
 date: '2021-01-01'
-lastmod: 2021-06-13T22:21:55+01:00
+lastmod: 2021-06-14T08:10:02+01:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-13T21:21:55.289442Z'
+publishDate: '2021-06-14T07:10:02.089229Z'
 publication_types:
 - '6'
 abstract: The interest in using cyanobacteria for biotechnology is rising steeply

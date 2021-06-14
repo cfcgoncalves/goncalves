@@ -19,7 +19,7 @@ tags:
 - '"Transporter-mediated secretion"'
 categories: []
 date: '2019-01-01'
-lastmod: 2021-06-13T22:21:54+01:00
+lastmod: 2021-06-14T08:10:01+01:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-13T21:21:54.220223Z'
+publishDate: '2021-06-14T07:10:00.999722Z'
 publication_types:
 - '6'
 abstract: 'Cyanobacteria hold great promise as renewable and sustainable microbial
