@@ -32,7 +32,7 @@ projects: []
 publishDate: '2021-06-14T07:10:01.368452Z'
 publication_types:
 - '2'
-abstract:'The circadian system in mammals is responsible for the temporal coordination of multiple
+abstract: 'The circadian system in mammals is responsible for the temporal coordination of multiple
   physiological and behavioural processes that are necessary for homeostasis. In the skeleton, it
   has long been known that metabolic functions of chondrocytes, osteoblasts and osteoclasts
   exhibit intrinsic circadian rhythms. In addition, results from animal models reveal
