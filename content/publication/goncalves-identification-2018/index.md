@@ -6,7 +6,7 @@ title: 'Identification of inner membrane translocase components of TolC-mediated
 subtitle: ''
 summary: ''
 authors:
-- Cátia F. Gonçalves
+- admin
 - Catarina C. Pacheco
 - Paula Tamagnini
 - Paulo Oliveira

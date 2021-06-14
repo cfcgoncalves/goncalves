@@ -5,7 +5,7 @@ title: 'Product Export in Cyanobacteria'
 subtitle: ''
 summary: ''
 authors:
-- Cátia F. Gonçalves
+- admin
 - Steeve Lima
 - Paulo Oliveira
 tags:

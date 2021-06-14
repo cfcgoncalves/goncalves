@@ -9,7 +9,7 @@ authors:
 - Nan Yang
 - Nicola J. Smyllie
 - Honor Morris
-- Cátia F. Gonçalves
+- admin
 - Michal Dudek
 - Dharshika R. J. Pathiranage
 - Johanna E. Chesham
