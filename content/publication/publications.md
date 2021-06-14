@@ -27,7 +27,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: '2'
+    publication_type: ''
     author: ''
     exclude_featured: false
 design:
@@ -40,5 +40,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](publication/).
 {{% /callout %}}
