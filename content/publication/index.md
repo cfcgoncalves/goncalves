@@ -2,7 +2,7 @@
 date: "2021-06-13T00:00:00Z"
 summary: List of publications
 title: Publications
-type: pages
+type: widget_page
 
 headless: false
 
@@ -29,12 +29,12 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 4
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
