@@ -48,7 +48,7 @@ experience:
     description: |2-
         * Final grade: 17 out of 20
         * ECTS classification: A
-        * Research Project: {{< staticref "https://repositorio-aberto.up.pt/bitstream/10216/90936/2/176253.pdf" "newtab" >}}Identification and characterisation of inner membrane components of TolC-dependent secretion mechanisms in the cyanobacterium Synechocystis sp. PCC 6803{{< /staticref >}}.
+        * Research Project: {{< staticref "https://repositorio-aberto.up.pt/bitstream/10216/90936/2/176253.pdf" "newtab" >}}Identification and characterisation of inner membrane components of TolC-dependent secretion mechanisms in the cyanobacterium Synechocystis sp PCC 6803{{< /staticref >}}.
 design:
   columns: '1'
 ---
