@@ -20,6 +20,7 @@ bio: My research interests include circadian biology, data analysis and visualis
 interests:
 - Circadian Biology
 - Musculoskeletal Diseases
+- Microbiology
 - Data Analysis & Visualisation
 - Science Communication
 - Scientific Writing
