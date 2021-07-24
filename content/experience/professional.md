@@ -8,7 +8,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: Professional Experience
 subtitle:
@@ -31,7 +31,7 @@ experience:
     date_end: '2019-03-31'
     description: |2-
         Involved in teaching of undergraduate practical courses and marking of exams. I have taught both in wet and dry lab modules:
-        
+
         * Introduction to Experimental Biology
         * Human Sciences Experimental Design Module
   - title: Pre-doctoral Researcher
