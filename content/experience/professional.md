@@ -30,7 +30,8 @@ experience:
     date_start: '2018-12-01'
     date_end: '2019-03-31'
     description: |2-
-        Involved in teaching of undergraduate practical courses and marking of exams. I have taught both in wet and dry lab:
+        Involved in teaching of undergraduate practical courses and marking of exams. I have taught both in wet and dry lab modules:
+        
         * Introduction to Experimental Biology
         * Human Sciences Experimental Design Module
   - title: Pre-doctoral Researcher
