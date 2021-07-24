@@ -19,7 +19,6 @@ bio: I am interested in circadian biology, microbiology, data analysis and visua
 # Interests to show in About widget
 interests:
 - Circadian Biology
-- Musculoskeletal Diseases
 - Microbiology
 - Data Analysis & Visualisation
 - Public Engagement
