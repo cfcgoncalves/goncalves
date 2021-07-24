@@ -30,6 +30,7 @@ experience:
     date_start: '2017-09-01'
     date_end: '2022-03-31'
     description: |2-
+        * Funded by the Wellcome Trust
         * Due for submission March 2022
   - title: MSc in Molecular and Cell Biology
     company: University of Porto
