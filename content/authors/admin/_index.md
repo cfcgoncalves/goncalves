@@ -14,7 +14,7 @@ organizations:
   url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include circadian biology, data analysis and visualisation, and science communication.
+bio: I am interested in circadian biology, microbiology, data analysis and visualisation. I am also keen on bridging the gap between scientists and citizens. 
 
 # Interests to show in About widget
 interests:
@@ -22,7 +22,7 @@ interests:
 - Musculoskeletal Diseases
 - Microbiology
 - Data Analysis & Visualisation
-- Science Communication
+- Public Engagement
 - Scientific Writing
 
 # Education to show in About widget
