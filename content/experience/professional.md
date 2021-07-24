@@ -30,8 +30,7 @@ experience:
     date_start: '2018-12-01'
     date_end: '2019-03-31'
     description: |2-
-        Involved in teaching of undergraduate practical courses and marking of exams. Taught in the following modules:
-        
+        Involved in teaching of undergraduate practical courses and marking of exams. I have taught both in wet and dry lab:
         * Introduction to Experimental Biology
         * Human Sciences Experimental Design Module
   - title: Pre-doctoral Researcher
@@ -40,21 +39,21 @@ experience:
     location: Porto, Portugal
     date_start: '2017-01-01'
     date_end: '2017-08-31'
-    description: Studied multiprotein transport complexes and their role in the maintenance of bacterial physiology.
+    description: Studied outer membrane vesicles and factors regulating their overproduction in the cyanobacterium _Synechocystis_ sp. PCC 6803. 
   - title: Graduate Research Trainee
     company: i3S - Institute for Research and Innovation in Health Sciences
     company_url: ''
     location: Porto, Portugal
     date_start: '2014-09-01'
     date_end: '2016-10-31'
-    description: For details about the project please see.
+    description: Identified and functionally characterised multiprotein transport systems in _Synechocystis_ sp. PCC 6803. 
   - title: Undergraduate Research Trainee
     company: IBMC - Institute for Cell and Molecular Biology
     company_url: ''
     location: Porto, Portugal
     date_start: '2013-10-01'
     date_end: '2014-06-30'
-    description: For details about the project please see.
+    description: Investigated the transcriptional regulation of genes related in the biosynthesis and export of extracellular polymeric substances in cyanobacteria. 
 
 design:
   columns: '1'
