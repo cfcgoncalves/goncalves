@@ -77,5 +77,6 @@ highlight_name: true
 ---
 
 My name is Cátia and I am PhD candidate at the University of Manchester. I work in {{< staticref "https://www.research.manchester.ac.uk/portal/en/researchers/qingjun-meng(3e76712d-7e17-413f-be5d-20921e415a0b).html" "newtab" >}}Qing-Jun Meng{{< /staticref >}}'s lab where I study circadian rhythms in articular cartilage. In particular, I am interested in the interactions between the circadian clock and the extracellular matrix and how these impact cartilage in health and disease. My research is funded by a Wellcome Trust PhD studentship.
+Previously, I was based at {{< staticref "https://www.i3s.up.pt/research-group.php?x=5" "newtab" >}}Paula Tamagnini{{< /staticref >}}'s lab where I conducted my BSc and MSc research training. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
