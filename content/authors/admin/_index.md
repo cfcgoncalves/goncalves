@@ -77,6 +77,6 @@ highlight_name: true
 
 My name is Cátia and I am PhD candidate in Molecular and Cell Biology at the University of Manchester. I work in {{< staticref "https://www.research.manchester.ac.uk/portal/en/researchers/qingjun-meng(3e76712d-7e17-413f-be5d-20921e415a0b).html" "newtab" >}}Qing-Jun Meng{{< /staticref >}}'s lab where I study circadian rhythms in articular cartilage in mouse and humans. Previously, I was based at {{< staticref "https://www.i3s.up.pt/research-group.php?x=5" "newtab" >}}Paula Tamagnini{{< /staticref >}}'s lab where I conducted my BSc and MSc research training and investigated multiprotein transport systems in the cyanobacterium _Synechocystis_ sp. PCC 6803. If you want to learn more about the research I have undertaken please {{< staticref "https://www.goncalvescatia.com/research/" "newtab" >}}click here{{< /staticref >}}.
 
-I am passionate about {{< staticref "https://www.goncalvescatia.com/scicomm/" "newtab" >}}communicating{{< /staticref >}} science to the public and to use illustrations to do so. At some point along the journey I have also learned to code in R.
+As an avid suporter of science democratisation, I am also passionate about {{< staticref "https://www.goncalvescatia.com/scicomm/" "newtab" >}}communicating{{< /staticref >}} science to the public. At some point along the journey I have also learned to code in R and to illustrate science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
