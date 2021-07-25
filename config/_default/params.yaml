@@ -27,12 +27,7 @@ address:
   postcode: M13 9PT
   city: Manchester
   country: United Kingdom
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/goncalvescfc'
-
+  
 # Site header
 
 main_menu:
