@@ -17,18 +17,12 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -36,11 +30,14 @@ feature:
 #  name: "Emojiness"
 #  description: "100%"  
 
-# Uncomment to use custom SVG icons.
+Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: "adobe-illustrator"
+  icon_pack: "custom"
+  name: "Adobe Illustrator"
+- icon: "adobe-indesign"
+  icon_pack: "custom"
+  name: "Adobe InDesign"
+  
 ---
