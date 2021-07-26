@@ -25,8 +25,10 @@ design:
   view: 1
 ---
 
-PhD project
+## PhD project
 
-MSc project
+## MSc project
+
+For my Master’s dissertation, I focused on the characterisation of multiprotein transport complexes in _Synechocystis_ sp. PCC 6803. In brief, my research helps to elucidate the functional complexity of TolC-dependent secretion mechanisms, and the importance of these systems to counteract the detrimental effects exerted by antimicrobial compounds on cell physiology. Furthermore, it also highlights the existence of TolC-independent functions among some multidrug efflux components, suggesting these transport complexes have roles relevant to the physiology of bacteria that stretch beyond antimicrobial resistance.
 
 BSc project
