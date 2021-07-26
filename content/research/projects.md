@@ -40,11 +40,12 @@ Morris, H., **Gonçalves, C.F.**, Dudek, M., Hoyland, J., and Meng, Q.-J., (**20
 
 For my Master’s dissertation, I focused on the characterisation of multiprotein transport complexes in _Synechocystis_ sp. PCC 6803.
 
-{{< figure src="cyano.jpg" id="cyanobacteria" caption="**Figure 1:** _Synechocystis_ sp. PCC 6803 cultures. Photo by Cátia F. Gonçalves." >}}
+{{< figure src="cyano.jpg" id="cyanobacteria" >}}
+**Figure 1:** _Synechocystis_ sp. PCC 6803 cultures.
 
 My research helped to elucidate the complexity of TolC-dependent secretion mechanisms, and the importance of these systems to counteract the detrimental effects exerted by compounds with antimicrobial activity on cell physiology. It also highlighted the existence of TolC-independent functions among some multidrug efflux components, suggesting these transport complexes have roles relevant to the physiology of bacteria that stretch beyond antimicrobial resistance.
 
-I also
+In addition, I
 
 ### Publications associated
 
