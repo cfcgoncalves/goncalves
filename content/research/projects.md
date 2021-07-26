@@ -44,7 +44,7 @@ Yang, N., Smyllie, N.J., Morris, H., **Gonçalves, C.F.**, Dudek, M., Pathiranag
   <figure>
     <img src="cyano.jpg"
          alt="Synechocystis">
-    <figcaption>Figure 1: Synechocystis sp. PCC 6803 cultures.</figcaption>
+    <figcaption><b>Figure 1</b>: <i>Synechocystis</i> sp. PCC 6803 cultures.</figcaption>
   </figure>
 </div>
 
