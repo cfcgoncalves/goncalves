@@ -23,6 +23,9 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 1
+
+body:
+  alignment: justify
 ---
 
 ## **PhD Research Project**
