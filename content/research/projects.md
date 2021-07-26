@@ -42,6 +42,7 @@ For my Master’s dissertation, I focused on the characterisation of multiprotei
 {{< figure src="cyano.jpg" id="cyanobacteria" >}}
 
 My research helped to elucidate the complexity of TolC-dependent secretion mechanisms, and the importance of these systems to counteract the detrimental effects exerted by compounds with antimicrobial activity on cell physiology. It also highlighted the existence of TolC-independent functions among some multidrug efflux components, suggesting these transport complexes have roles relevant to the physiology of bacteria that stretch beyond antimicrobial resistance.
+
 I also
 
 ### Publications associated
