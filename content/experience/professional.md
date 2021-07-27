@@ -31,7 +31,9 @@ experience:
     date_end: '2022-03-31'
     description: |2-
         Research on the feasibility of utilising heat pulses to restore dampened circadian oscillations in articular cartilage - investigated the molecular mechanisms behind the heat-mediated clock synchronisation and evaluated impacts on tissue homeostasis.
+        
         Collaborated with peers on lab tasks that required technical expertise and with writing papers.
+        
         Acted as final year project supervisor for two undergraduate students. 
   - title: Graduate Teaching Assistant
     company: University of Manchester
@@ -60,6 +62,7 @@ experience:
     date_end: '2016-10-31'
     description: |2-
         Identified and functionally characterised multiprotein transport systems in _Synechocystis_
+        
         Performed the _in silico_ molecular analysis (whole-genome sequencing) and phenotypic characterisation of two _Synechocystis_ strains.
   - title: Undergraduate Research Trainee
     company: Institute for Cell and Molecular Biology (IBMC)
