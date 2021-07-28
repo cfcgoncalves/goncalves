@@ -50,7 +50,7 @@ Yang, N., Smyllie, N.J., Morris, H., **Gonçalves, C.F.**, Dudek, M., Pathiranag
 
 My research helped to elucidate the complexity of TolC-dependent secretion mechanisms, and the importance of these systems to counteract the detrimental effects exerted by compounds with antimicrobial activity on cell physiology. It also highlighted the existence of TolC-independent functions among some multidrug efflux components, suggesting these transport complexes have roles relevant to the physiology of bacteria that stretch beyond antimicrobial resistance.
 
-In addition, I performed the molecular (whole-genome sequencing) and phenotypic characterisation of two _Synechocystis_ strains (unpublished),
+In addition, I performed the molecular (whole-genome sequencing) and phenotypic characterisation of two _Synechocystis_ strains (unpublished).
 
 ### Publications associated
 
