@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: CG_Theme
+theme: "CG_Theme"
 day_night: false
 font: 'rose'
 font_size: L
