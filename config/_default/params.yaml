@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
+theme: CG_Theme
+day_night: false
 font: 'rose'
 font_size: L
 
