@@ -32,9 +32,9 @@ design:
 
 <div align="center">
   <figure>
-    <img src="cartilage.jpg"
+    <img src="cartilage.tif"
          alt="Osteoarthritis">
-    <figcaption><b>Figure 1</b>: Osteoarthritis is a whole-joint disease that is characterized by the loss of articular cartilage, remodeling of adjacent bone (namely the formation of osteophytes) and inflammation. Illustration by Cátia F. Gonçalves.</figcaption>
+    <figcaption><b>Figure 1</b>: Osteoarthritis is a whole-joint disease that is characterised by the loss of articular cartilage, remodeling of adjacent bone (namely the formation of osteophytes) and inflammation. Illustration by Cátia F. Gonçalves.</figcaption>
   </figure>
 </div>
 
