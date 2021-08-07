@@ -25,16 +25,12 @@ design:
   view: 1
 
 ---
+ I have always been passionate about communicating science to the public. During my undergraduate studies, I participated in outreach events hosted by the University of Porto and aimed at high-school students and the local community. At the University of Manchester, I received formal training in science communication and co-organised an activity entitled: "What came first: the chicken or the egg? An evolutionary tale." I also drew the illustrations for the poster. More recently, I have become interested in utilising science communication as tool for social inclusion. Throughout these activities, I have successfully discussed basic concepts of life sciences and exchanged experiences and first impressions about my training programme with prospective students. I find communication to be a rewarding activity as it allows me to share my passion for science with others and contribute to a more informed society.
 
- I have also participated in science communication events hosted by the university and aimed at high-school students and the local community. Throughout the activities, I have successfully discussed basic concepts of life sciences and exchanged experiences and first impressions about my training programme with prospective students. I find communication to be a rewarding activity as it allows me to share my passion for science with others and contribute to a more informed society. I am confident I can take the best advantage of the vibrant opportunities offered by this joint PhD training programme to inspire the wider public about science. 
-
-<div align="center">
+ <div align="center">
   <figure>
     <img src="cartilage.jpg"
          alt="Osteoarthritis">
     <figcaption><b>Figure 1</b>: Osteoarthritis is a whole-joint disease that is characterised by the loss of articular cartilage, remodeling of adjacent bone (namely the formation of osteophytes) and inflammation. Illustration by Cátia F. Gonçalves.</figcaption>
   </figure>
 </div>
-
-  The circadian clock is involved in the temporal orchestration of several molecular networks involved in the daily maintenance of cartilage homeostasis (e.g. matrix synthesis and chondrocyte proliferation). In my PhD project, I am investigating the feasibility of utilising temperature pulses to restore circadian oscillations in cartilage. I am also evaluating the effect of the temperature treatment on tissue homeostasis.
-
