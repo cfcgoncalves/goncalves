@@ -26,8 +26,14 @@ design:
 
 ---
  I have always been passionate about communicating science to the public. During my undergraduate studies, I participated in outreach events hosted by the University of Porto and aimed at high-school students and the local community. 
- 
- {{< gallery album="up" >}}
+
+<div align="center">
+  <figure>
+    <img src="up.jpg"
+         alt="publicengagement">
+  </figure>
+</div>
+
  
  At the University of Manchester, I received formal training in science communication and co-organised an activity entitled: "What came first: the chicken or the egg? An evolutionary tale." I drew the illustrations for the activity, including a poster. 
  
