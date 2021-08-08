@@ -38,7 +38,7 @@ design:
 
  <div align="center">
   <figure>
-    <img src="MAP.jpg"
+    <img src="rsz_1rsz_2map.jpg"
          alt="publicengagement">
   </figure>
 </div>
