@@ -27,4 +27,4 @@ design:
 ---
  I have always been passionate about communicating science to the public. During my undergraduate studies, I participated in outreach events hosted by the University of Porto and aimed at high-school students and the local community. At the University of Manchester, I received formal training in science communication and co-organised an activity entitled: "What came first: the chicken or the egg? An evolutionary tale." I also drew the illustrations for the poster. More recently, I have become interested in utilising science communication as tool for social inclusion. Throughout these activities, I have successfully discussed basic concepts of life sciences and exchanged experiences and first impressions about my training programme with prospective students. I find communication to be a rewarding activity as it allows me to share my passion for science with others and contribute to a more informed society.
 
- {{< gallery album="<comm>" >}}
+ {{< gallery album="<albums/comm>" >}}
