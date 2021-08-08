@@ -78,4 +78,4 @@ I work in {{< staticref "https://www.research.manchester.ac.uk/portal/en/researc
 
 As an avid suporter of science democratisation, I am passionate about {{< staticref "https://www.goncalvescatia.com/scicomm/" "newtab" >}}communicating{{< /staticref >}} science to the public. At some point along the journey I have also learned scientific illustration skills - good pictures are worth a thousand words - and to code in R.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1KhDKFa5hXor-LmkZa3gnBGp1OfnP2eNc/view?usp=sharing" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
