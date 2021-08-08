@@ -29,7 +29,7 @@ design:
 
 <div align="center">
   <figure>
-    <img src="up.jpg"
+    <img src="rsz_up.jpg"
          alt="publicengagement">
   </figure>
 </div>
