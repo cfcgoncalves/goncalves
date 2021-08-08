@@ -43,6 +43,6 @@ design:
   </figure>
 </div>
 
- More recently, I have become interested in utilising science communication as tool for social inclusion. Throughout these activities, I have successfully discussed basic concepts of life sciences and exchanged experiences and first impressions about my training programme with prospective students. I find communication to be a rewarding activity as it allows me to share my passion for science with others and contribute to a more informed society.
+ In collaboration with Sofia Oliveira, I won an  {{< staticref "https://spmicrobiologia.wordpress.com/2020/07/27/divulgacao-de-ciencia-porque-e-que-eu-tenho-sintomas-indesejados-e-tu-nao/" "newtab" >}}honourable mention{{< /staticref >}} in a science communication contest organised by the Portuguese Microbiology Society. More recently, I have become interested in utilising science communication as tool for social inclusion, and I have participated in activities organised by the {{< staticref "https://www.socialmobility.org.uk/" "newtab" >}} Social Mobility Foundation {{< /staticref >}} and {{< staticref "https://www.cartascomciencia.org/" "newtab" >}} Cartas com Ciência {{< /staticref >}}. Throughout these activities, I have successfully discussed basic concepts of life sciences and exchanged experiences and first impressions about my training programme with prospective students. I find communication to be a rewarding activity as it allows me to share my passion for science with others and contribute to a more informed society.
 
  
