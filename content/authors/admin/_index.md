@@ -6,12 +6,12 @@ title: Cátia F. Gonçalves
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Scientific Writing & Data Science
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: University of Manchester
-  url: https://www.manchester.ac.uk/
+#organizations:
+#- name: University of Manchester
+#  url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in circadian biology, microbiology, data analysis and visualisation. I am also keen on bridging the gap between scientists and citizens. 
