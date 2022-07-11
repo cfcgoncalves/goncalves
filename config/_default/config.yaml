@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title:  '' # Website name
-baseurl: 'goncalvescatia.netlify.app' # Website URL
+baseurl: 'goncalvescatia.com' # Website URL
 copyright: '© 2022 Cátia F. Gonçalves' # Footer text, e.g. '© {year} Me'
 
 ############################
